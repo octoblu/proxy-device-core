@@ -1,0 +1,37 @@
+{
+  "name": "proxy-device-core",
+  "version": "1.0.0",
+  "description": "Yes, yes, yes, yes, and what if the core is made of cheese? This is all best guess commander. That's all science is, is best guess.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/octoblu/proxy-device-core.git"
+  },
+  "keywords": [
+    "meshblu",
+    "IoT",
+    "octoblu",
+    "rest"
+  ],
+  "author": "sqrt@octoblu.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/octoblu/proxy-device-core/issues"
+  },
+  "homepage": "https://github.com/octoblu/proxy-device-core",
+  "dependencies": {
+    "coffee-script": "^1.9.3",
+    "lodash": "^3.10.1",
+    "request": "^2.60.0"
+  },
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "coffee-script": "^1.9.3",
+    "mocha": "^2.2.5",
+    "sinon": "^1.15.4",
+    "sinon-chai": "^2.8.0"
+  }
+}
